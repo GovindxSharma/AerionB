@@ -1,93 +1,52 @@
-Aerion Medtech Pvt. Ltd.
-Ahmedabad, India  
+🧠 Aerion Medtech Knowledge Base
+📌 Company Overview
 
-📞 Contact & Support:  
-- Email: info@aerionmedtech.com  
+Aerion Medtech is a healthcare innovation company committed to connecting healthcare professionals and medical institutions with advanced, certified medical technologies from around the world.
+We specialise in custom procurement, working closely with hospitals, clinics, and providers to deliver solutions that are precise, reliable, and tailored to specific clinical needs.
 
----
+🩺 What Does Aerion Medtech Do?
 
-About Aerion Medtech
-- Nature of Business: Healthcare innovation company connecting medical institutions with advanced, certified technologies from trusted global and local sources.
-- Mission: To make healthcare more efficient, innovative, and accessible through precise procurement today and responsible manufacturing in the future.
-- Vision: To lead transformation in healthcare by introducing solutions that are smarter, more robust, and more accessible.
-- Founder: Aarya Lekhadia – Biomedical engineer educated at University of Pennsylvania and Penn State. Expertise in biomedical devices, healthcare systems, and product development.
-- Specialization: Custom procurement of medical devices for hospitals, clinics, and providers; focus on relevance, usability, safety, and trust.
+Offers a curated portfolio of certified medical technologies.
 
----
+Partners globally to deliver products that enhance patient care, clinical safety, and operational efficiency.
 
-Products & Quality
-- Portfolio of advanced, high-quality medical devices and healthcare solutions.
-- Only products that meet international standards (FDA, CE, ISO).
-- National regulatory compliance (e.g., CDSCO) pursued where applicable.
-- Products backed by clinical data and real-world usage.
-- Selection prioritizes certification, safety, performance, and clinical relevance.
-- Aerion Medtech does not conduct original clinical trials but uses evidence-based evaluation.
+Supports hospitals and providers with reliable, cost-effective solutions aligned to evolving medical standards.
 
----
+👤 Founder
 
-Technology & Integration
-- Solutions integrate seamlessly into existing clinical workflows.
-- Focus on ease of use, reliability, and measurable improvements in patient care and efficiency.
-- Categories: visualization tools, infection control, procedural support, emerging innovations.
+Aarya Lekhadia – a biomedical engineer dedicated to creating innovative, reliable, and robust healthcare solutions.
 
----
+📦 Product Safety
 
-Support & Partnerships
-- Product demos & training on request.
-- Post-purchase support: technical guidance, troubleshooting, manufacturer coordination.
-- Partnerships: open to collaborations with doctors, administrators, and healthcare institutions.
-- Technical issues & repairs handled by Aerion Medtech, escalated if needed.
-- Warranty: terms vary per product/manufacturer.
+✅ All products are certified with FDA approval, CE marking, and ISO standards.
 
----
+🌍 Shipping
 
-Purchasing & Logistics
-- All orders processed through Aerion Medtech team.
-- Samples & trials: offered case-by-case for institutional evaluations.
-- International shipping: assessed individually.
-- Returns & refunds: case-by-case, aligned with healthcare regulations.
+India → Full support with logistics and delivery.
 
----
+International → Personalized shipment arrangements.
 
-Company Policies
-Privacy Policy:
-- No selling of personal data.
-- Collects only necessary information (name, email, phone, org, title).
-- Uses data for communication, service improvement, legal compliance.
-- Users may request access, correction, or deletion of their data.
+📞 Contact Points
 
-Terms of Use:
-- Website content and trademarks owned by Aerion Medtech.
-- Content “as is” without warranties.
-- No liability for damages from site use.
-- Unlawful/unauthorized site use prohibited.
+Sales & Marketing Enquiries → Saim Khoja | 📧 saimkhoja@outlook.com | 📱 +91 81040 27533
 
----
+Business Collaboration & Operations → Madhavi Bahree | 📧 madhavibahree@outlook.com | 📱 +91 98113 00152
 
-Inquiry Categories
-- Medical Product Enquiry
-- Custom Procurement Request
-- Distributorship / Sales Partnership Request
-- Manufacturer / Supplier Collaboration Enquiry
-- Healthcare Institution Collaboration Request
-- Technical Support / Documentation Request
-- General or Other Enquiry
+General Enquiries → 📧 info@aerionmedtech.com
 
----
+💬 Example Queries & Responses
 
-Example Responses
+User: "Tell me about your company."
+Chatbot: "Aerion Medtech is a healthcare innovation company that connects healthcare professionals and institutions with advanced, certified medical technologies tailored to clinical needs."
 
-User: "Tell me about your company."  
-Chatbot: "Aerion Medtech is a healthcare innovation company committed to connecting healthcare professionals and institutions with advanced, certified medical technologies. We specialise in custom procurement, delivering precise and reliable solutions tailored to clinical needs."
+User: "Are your products safe?"
+Chatbot: "Yes. All our products are carefully selected and hold certifications like FDA approval, CE marking, and ISO standards."
 
-User: "Are your products safe?"  
-Chatbot: "Yes. Every product is carefully selected and holds certifications such as FDA, CE, and ISO."
+User: "Can I request a price list?"
+Chatbot: "For pricing, I can connect you with our team directly. We ensure you get the right solution based on your needs."
 
-User: "Can I request a price list?"  
-Chatbot: "For pricing, please contact our team directly. We ensure you get the right solution for your needs."
+User: "Who is the founder?"
+Chatbot: "Our founder is Aarya Lekhadia, a biomedical engineer passionate about building innovative and reliable healthcare solutions."
 
-User: "Who is the founder?"  
-Chatbot: "Our founder is Aarya Lekhadia, a biomedical engineer dedicated to creating innovative, trustworthy, and usable healthcare solutions."
-
-User: "Do you ship internationally?"  
-Chatbot: "International shipments are evaluated case-by-case. Please contact our team with your requirements."
+User: "Do you ship internationally?"
+Chatbot: "Yes, international shipments are arranged personally to ensure the best service. Please contact our team with your requirements."
