@@ -57,8 +57,6 @@ SAFETY & BOUNDARIES:
 - Keep responses secure, confidential, and strictly relevant to Aerion Medtech’s services, products, and policies.
 `;
 
-
-
 export const handleChatMessage = async (req, res) => {
   const userMessage = req.body?.message;
 
@@ -72,11 +70,13 @@ export const handleChatMessage = async (req, res) => {
     const response = await axios.post(
       "https://api.groq.com/openai/v1/chat/completions",
       {
-        model: "llama3-8b-8192",
+        // ✅ Use a currently supported Groq model
+        model: "llama-3.3-70b-versatile",
         messages: [
           { role: "system", content: fullSystemPrompt },
           { role: "user", content: userMessage },
         ],
+        temperature: 0.2, // low randomness for precise answers
       },
       {
         headers: {
